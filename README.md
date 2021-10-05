@@ -8,6 +8,11 @@ I like challenging myself with new projects either big or small. My coding
 projects tend to be for the challenge, to learn a new library, or just to 
 have fun with some friends.
 
+<hr/>
+
+Find me on Codewars!
+![CodeWars Badge](https://www.codewars.com/users/cbonesteel/badges/large)
+
 
 <!--
 **cbonesteel/cbonesteel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
