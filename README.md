@@ -10,7 +10,6 @@ have fun with some friends.
 
 <hr/>
 
-Find me on Codewars!
 ![CodeWars Badge](https://www.codewars.com/users/cbonesteel/badges/large)
 
 
