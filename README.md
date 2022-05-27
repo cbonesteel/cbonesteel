@@ -1,6 +1,7 @@
 ### Hey, my name is Cameron
 #### I'm a computer science student at the University of Georgia! Go Dawgs!
-#### I'm also a software developer at UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a>.
+#### I'm a software developer and the MOCI Program Manager at UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a>.
+#### I'm currently interning for [Tall Timbers Research Station](https://talltimbers.org/) working on [fire modeling](https://github.com/QUIC-Fire-TT/ttrs_quicfire).
 
 <hr/>
 
