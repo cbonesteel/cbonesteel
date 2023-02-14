@@ -1,6 +1,6 @@
-### Hey, my name is Cameron
+### Welcome, my name is Cameron!
 #### I'm a computer science student at the University of Georgia! Go Dawgs!
-#### I'm the MOCI Program Manager and flight software team lead at UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a>.
+#### I'm the MOCI Chief Engineer at UGA's <a href="http://smallsat.uga.edu/">Small Satellite Research Lab</a>.
 
 <hr/>
 
